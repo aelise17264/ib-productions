@@ -1,6 +1,6 @@
 /**
-* Template Name: PhotoFolio
-* Template URL: https://bootstrapmade.com/photofolio-bootstrap-photography-website-template/
+* Template Name: Ian Brander Productions
+* Template URL: https://bootstrapmade.com/Ian Brander Productions-bootstrap-photography-website-template/
 * Updated: Aug 07 2024 with Bootstrap v5.3.3
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
