@@ -788,9 +788,12 @@ section,
 }
 
 .hero h2 {
-  margin: 0 0 10px 0;
+  margin: 0 0 5px 0;
   font-size: 38px;
   font-weight: 700;
+  width: 50vw;
+  align-self: auto;
+  text-shadow: 2px 2px #4A4947;
 }
 
 .hero h2 .underlight {
